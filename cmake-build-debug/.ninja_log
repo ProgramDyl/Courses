@@ -1,0 +1,13 @@
+# ninja log v6
+20	2120	7520355165694135	CMakeFiles/Courses.dir/main.cpp.obj	2b13dcc1bc7fd3af
+109	1206	7521019850991445	CMakeFiles/Courses.dir/Student.cpp.obj	4e42ffd95aa566aa
+83	1214	7521019850727199	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+14	1019	7521063814920889	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+9	765	7521066330908737	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+9	724	7521066849044453	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+11	730	7521066931740500	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+7	428	7521073614131567	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+11	443	7521073930487785	CMakeFiles/Courses.dir/Student.cpp.obj	4e42ffd95aa566aa
+443	929	7521073934806389	Courses.exe	efaea0b43443854f
+15	764	7521084003315334	CMakeFiles/Courses.dir/main.cpp.obj	439262006a658016
+765	2228	7521084010818663	Courses.exe	efaea0b43443854f

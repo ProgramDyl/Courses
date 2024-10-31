@@ -1,0 +1,3 @@
+C:/Users/dylan/NSCC/Semester 3/5-C++/assignments/Courses/cmake-build-debug/CMakeFiles/Courses.dir
+C:/Users/dylan/NSCC/Semester 3/5-C++/assignments/Courses/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dylan/NSCC/Semester 3/5-C++/assignments/Courses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
