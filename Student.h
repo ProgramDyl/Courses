@@ -1,3 +1,8 @@
+//Courses
+
+// by Dylan Cunningham W0443022
+// October 31st, 2024
+
 #ifndef STUDENT_H
 #define STUDENT_H
 
